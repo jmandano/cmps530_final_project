@@ -1,0 +1,302 @@
+name_in_data,translation,weight_category,frequency
+Mischling klein,mixed breed small,11-20,652
+Chihuahua,chihuahua,1-10,495
+Labrador Retriever,labrador retriever,71-80,446
+Jack Russel Terrier,jack russell terrier,11-20,298
+Yorkshire Terrier,yorkshire terrier,1-10,280
+Malteser,maltese,1-10,192
+Mops,pug,11-20,178
+Golden Retriever,golden retriever,61-70,174
+Französische Bulldogge,french bulldog,21-30,170
+Mischling gross,mixed breed large,61-70,136
+Pudel,standard poodle,61-70,108
+West Highland White Terrier,west highland white terrier,11-20,105
+Border Collie,border collie,31-40,101
+Schäfer,shepherd,81-90,93
+Pekingese,pekingese,11-20,87
+Pinscher,pinscher,31-40,85
+Bolonka Zwetna,russian tsvetnaya bolonka,1-10,82
+Beagle,beagle,21-30,82
+Deutscher Schäfer,german shepherd,81-90,82
+Zwergpudel,miniature poodle,11-20,73
+Berner Sennenhund,bernese mountain dog,91-100,72
+Cocker Spaniel,cocker spaniel,21-30,69
+Shih Tzu,shih tzu,11-20,68
+Dackel,miniature dachshund,1-10,67
+Dachshund,dachshund,21-30,61
+Appenzeller,appenzeller sennenhunde,61-70,58
+Terrier,terrier,21-30,57
+Zwergspitz,pomeranian,1-10,56
+Zwergpinscher,miniature pinscher,1-10,55
+Cairn Terrier,cairn terrier,11-20,53
+Bergamasker,bergamasco sheepdog,71-80,50
+Lagotto Romagnolo,lagotto romagnolo,21-30,49
+Tibet Terrier,tibetan terrier,21-30,49
+Havaneser,havanese,11-20,49
+Flat Coated Retriever,flat coated retriever,61-70,45
+Papillon,papillon,1-10,44
+Podenco,podenco,41-50,43
+Boxer,boxer,61-70,42
+Rauhaar Dackel,dachshund,21-30,42
+Parson Russell Terrier,parson russell terrier,11-20,42
+Rhodesian Ridgeback,rhodesian ridgeback,81-90,39
+Foxterrier,fox terrier,11-20,39
+Australian Shepherd,australian shepherd,11-20,38
+Parson Jack Russell Terrier,jack russell terrier,11-20,36
+Border Terrier,border terrier,11-20,33
+Collie,collie,41-50,33
+Cavalier King Charles Spaniel,cavalier king charles spaniel,11-20,33
+Spitz,spitz,11-20,32
+Zwergschnauzer,miniature schnauzer,11-20,31
+English Cocker Spaniel,english cocker spaniel,21-30,29
+Continental Bulldog,continental bulldog,51-60,29
+Belgischer Schäfer,belgian malinois,51-60,27
+Husky,husky,51-60,26
+Rottweiler,rottweiler,110-120,26
+Dalmatiner,dalmatian,61-70,26
+Whippet,whippet,31-40,25
+Englische Bulldogge,english bulldog,41-50,25
+Coton de Tulear,coton de tulear,1-10,25
+Toypudel,toy poodle,1-10,24
+Appenzeller Sennenhund,Appenzeller Sennenhund,61-70,24
+Labradoodle,labradoodle,71-80,24
+Lhasa Apso,lhasa apso,11-20,23
+Grosspudel,standard poodle,61-70,22
+Mittelpudel,medium poodle,21-30,22
+Bichon frisé,bichon frisé,11-20,21
+Boston Terrier,boston terrier,11-20,21
+Prager Rattler,prague ratter,1-10,20
+Magyar Viszla,vizsla,51-60,20
+Rehpinscher,mini pinscher,1-10,20
+Sheltie,shetland sheepdog,21-30,19
+Irish Terrier,irish terrier,21-30,18
+Airedale Terrier,airedale terrier,51-60,18
+Shiba Inu,shiba inu,11-20,18
+Galgo Español,spanish greyhound,51-60,17
+Sibirischer Husky,siberian husky,51-60,17
+Italienisches Windspiel,italian greyhound,1-10,16
+Weimaraner,weimaraner,71-80,16
+Schnauzer,schnauzer,11-20,16
+Riesenschnauzer,giant schnauzer,91-100,15
+Hovawart,hovawart,71-80,15
+Bearded Collie,bearded collie,51-60,14
+Vizsla,vizsla,51-60,14
+Tibetan Spaniel,tibetan spaniel,11-20,14
+Deutsche Dogge,great dane,131-140,14
+Tervueren,belgian terviren,51-60,14
+Griffon,griffon,1-10,13
+Irish Setter,irish setter,61-70,13
+Chinese Crested,chinese crested dog,1-10,13
+Entlebucher Sennenhund,entlebucher mountain dog,51-60,13
+Deutscher Boxer,boxer,61-70,13
+Scottish Terrier,scottish terrier,11-20,12
+Samojede,samoyed,51-60,12
+Chow Chow,chow chow,61-70,12
+English Setter,english setter,61-70,12
+Zwergdackel,miniature dachshund,1-10,12
+American Bulldog,american bulldog,121-130,12
+American Staffordshire Terrier,American Staffordshire Terrier,61-70,12
+Shetland Sheepdog,Shetland Sheepdog,21-30,12
+Sennenhund,swiss mountain dog,51-60,12
+Kooiker,kooikerhondje,21-30,12
+Norwich Terrier,Norwich Terrier,11-20,11
+Dobermann,doberman,81-90,11
+Toy Pudel,toy poodle,1-10,11
+Langhaardackel,long haired dachshund,21-30,11
+Hirtenhund,hirtenhund,41-50,11
+Berger des Pyrenées,pyrenean sheepdog,21-30,11
+Zwergrauhaardackel,wire haired dachshund,21-30,10
+Shar Pei,Shar Pei,51-60,10
+Pointer,pointer,61-70,10
+Eurasier,eurasier,61-70,10
+Nova Scotia Duck Tolling Retriever,Nova Scotia Duck Tolling Retriever,41-50,9
+American Cocker Spaniel,American Cocker Spaniel,21-30,9
+Kleinspitz,german spitz,21-30,9
+Vorstehhund,pointer,61-70,9
+Basenji,Basenji,21-30,9
+Münsterländer,munsterlander,51-60,9
+Schweizer Sennenhund,,51-60,9
+Malinois,Belgian malinois,61-70,9
+Chinese Crested Powderpuff,chinese crested dog,1-10,9
+Gordon Setter,gordon setter,71-80,8
+Dogo Argentino,dogo argentino,81-90,8
+Briard,briard,71-80,8
+Welsh Terrier,Welsh Terrier,11-20,8
+Soft Coated Wheaten Terrier,Soft Coated Wheaten Terrier,31-40,8
+Miniature Bull Terrier,Miniature Bull Terrier,21-30,8
+Bichon Havanais,havanese,11-20,8
+Bichon,bichon,11-20,8
+Mittelschnauzer,standard schnauzer,31-40,8
+Königspudel,standard poodle,61-70,7
+Kromfohrländer,kromfohrlander,21-30,7
+Old Englische Bulldogge,old english bulldog,41-50,7
+English Springer Spaniel,english springer spaniel,41-50,7
+Windhund,greyhound,71-80,7
+Volpino,Volpino,1-10,7
+Lakeland Terrier,Lakeland Terrier,11-20,7
+Australian Cattle Dog,Australian Cattle Dog,31-40,7
+Welsh Corgi,Welsh Corgi,21-30,7
+Podenco Ibicenco,ibizan hound,51-60,7
+Miniature Australien Shepard,Miniature Australien Shepard,31-40,7
+Leonberger,Leonberger,141-150,6
+Jagdhund,jagd terrier,11-20,6
+Groenendael,belgian shepherd,51-60,6
+Altdeutscher Schäfer,old german shepherd dog,71-80,6
+Akita Inu,akita,71-80,6
+Entlebucher,entlebucher mountain dog,51-60,6
+Biewer Yorkshire Terrier,biewer terrier,1-10,6
+Barbet,barbet,51-60,6
+Spinone,spinone italiano,71-80,6
+Spaniel,spaniel,31-40,6
+Afghane,afghan hound,61-70,6
+Goldendoodle,Goldendoodle,51-60,6
+Russischer Terrier,black russian terrier,121-130,6
+Berger blanc Suisse,white swiss shepherd dog,71-80,5
+King Charles Spaniel,King Charles Spaniel,11-20,5
+Bordeaux Dogge,bordeaux mastiff,121-130,5
+Norfolk Terrier,Norfolk Terrier,11-20,5
+Spanischer Wasserhund,spanish water dog,31-40,5
+Basset,basset hound,51-60,5
+Galgo,spanish greyhound,51-60,5
+Holländischer Schäfer,dutch shepherd,61-70,5
+Portugiesischer Wasserhund,portugese water dog,51-60,5
+Deutscher Pinscher,German Pinscher,31-40,5
+Windspiel,italian greyhound,1-10,5
+Katalanischer Schäferhund,Catalan Shepherd,31-40,5
+Welsh Corgi Pembroke,Welsh Corgi,21-30,5
+Bobtail,old english sheepdog,81-90,5
+Manchester Terrier,Manchester Terrier,11-20,5
+Pit Bull Terrier,Pit Bull Terrier,51-60,4
+Katalanischer Hirtenhund,Catalan Shepherd,31-40,4
+Petit Basset Griffon,Petit Basset Griffon,31-40,4
+Neufundländer,Newfoundland,141-150,4
+Löwchen,little lion dog,11-20,4
+Bichon maltais,maltese,1-10,4
+Deutscher Vorstehhund,German shorthaired pointer,61-70,4
+Field Spaniel,Field Spaniel,31-40,4
+Irish Soft Coated Wheaten Terrier,Soft Coated Wheaten Terrier,31-40,4
+Zwergdachshund,miniature dachshund,1-10,4
+Pomeranian,Pomeranian,1-10,4
+Staffordshire Bull Terrier,Staffordshire Bull Terrier,31-40,4
+Alaskan Malamute,Alaskan Malamute,81-90,4
+Beauceron,Beauceron,91-100,4
+Berger Picard,Berger Picard,61-70,3
+Bretonischer Spaniel,brittany,31-40,3
+Malamut,Malamute,81-90,3
+Japan Chin,Japanese Chin,1-10,3
+Thai Ridgeback,Thai Ridgeback,61-70,3
+Berger de Brie,briard,71-80,3
+Toller,toller,41-50,3
+Dogo Canario,Presa Canario,121-130,3
+Welsh Springer Spaniel,Springer Spaniel,41-50,3
+Saluki,Saluki,51-60,3
+Dogge,Mastiff,91-100,3
+Tiroler Bracke,Tyrolean hound,41-50,3
+Border,Border collie,31-40,3
+Setter,setter,51-60,3
+Basset Griffon vendéen,petite Basset Griffon,31-40,3
+Parson Terrier,Parson Terrier,11-20,3
+Ratero,rat terrier,11-20,3
+English Toy Terrier,English Toy Terrier,1-10,3
+Tschechoslowakischer Wolfshund,Czechoslovakian Wolfdog,141-150,3
+Mittelspitz,Medium spitz,21-30,3
+Bayerischer Gebirgsschweisshund,Bavarian mountain hound,41-50,3
+Landseer,Landseer,141-150,3
+Australian Terrier,Australian Terrier,11-20,3
+Welsh Corgi Cardigan,cardigan Welsh Corgi,31-40,3
+Dachsbracke,dachshund,21-30,3
+Canaan Dog,Canaan Dog,41-50,3
+Bernhardiner,saint Bernard,141-150,3
+Chesapeake Bay Retriever,Chesapeake Bay Retriever,71-80,3
+Irish Wolfhound,Irish Wolfhound,131-140,3
+Perro de Agua,water dog,51-60,2
+Greyhound,Greyhound,71-80,2
+Retriever,retriever,71-80,2
+Kuvasz,Kuvasz,131-140,2
+Deutscher Grossspitz,German spitz,21-30,2
+Kerry Blue Terrier,Kerry Blue Terrier,31-40,2
+Deutscher Jagdterrier,jagd terrier,11-20,2
+Deutsch Drahthaar,German wirehaired pointer,61-70,2
+Bologneser,Bolognese,1-10,2
+Maremma-Abruzzenhund,Maremmano-Abruzzese sheepdog,91-100,2
+Russkiy Toy,Russkiy Toy,1-10,2
+Epagneul Breton,brittany,31-40,2
+Bullmastiff,Bullmastiff,121-130,2
+Chinese Crested Hairless Dog,Chinese Crested dog,1-10,2
+Teckel,dachshund,21-30,2
+Bardino,Perro Majorero,81-90,2
+Gos d'Atura Català,Catalan Shepherd,31-40,2
+Segugio,Segugio italiano,51-60,2
+Beauceron Berge de Beauce,Beauceron,81-90,2
+Mudi,Mudi,21-30,2
+Bouvier,Bouvier,71-80,2
+Schweizer Niederlaufhund,Schweizer Niederlaufhund,21-30,2
+Silky Terrier,Silky Terrier,1-10,2
+Islandhund,Icelandic sheepdog,21-30,2
+Afghanischer Windhund,Afghan hound,61-70,2
+Toyterrier,Toy terrier,1-10,2
+Skye Terrier,Skye Terrier,31-40,2
+Deutscher Langhaarschäfer,old german shepherd dog,71-80,2
+Bulldog,Bulldog,41-50,2
+Australian Silky Terrier,Australian Silky Terrier,1-10,2
+Maremmano,Maremmano-Abruzzese sheepdog,91-100,2
+Mastiff,Mastiff,91-100,2
+Polski Owczarek Nizinny,polish lowland sheepdog,41-50,2
+Elo,Elo,61-70,2
+Kurzhaar Dackel,dachshund,21-30,1
+Wasserhund,Water dog,51-60,1
+Alano,Alano,71-80,1
+Jura Laufhund,bruno jura hound,31-40,1
+Ratenero Bodeguero,Ratenero Bodeguero andaluz,11-20,1
+Puli,Puli,21-30,1
+Deutscher Wachtel,German spaniel,41-50,1
+Curly Coated Retriever,Curly Coated Retriever,81-90,1
+Cattle Dog,Australian cattle Dog,41-50,1
+Alpenländische Dachsbracke,dachshund,21-30,1
+Chodsky pes,bohemian shepherd,41-50,1
+Chinese Foo Dog,Chinese Foo Dog,not real,1
+Norwegischer Lundehund,Norwegian Lundehund,11-20,1
+Norwegischer Buhund,Norwegian Buhund,31-40,1
+Deutscher Kurzhaar,German shorthaired pointer,61-70,1
+Finnischer Lapphund,Finnish Lapphund,41-50,1
+Cimarron Uruguayo,Cimarron Uruguayo,91-100,1
+Pyrenäen,great Pyrenees,141-150,1
+Sloughi,Sloughi,51-60,1
+Schapendoes,Schapendoes,41-50,1
+Polnische Bracke,Polish hound,61-70,1
+Bull Terrier,Bull Terrier,61-70,1
+Transylvanischer Laufhund,Transylvanian hound,61-70,1
+Nackthund,Xoloitzcuintle,41-50,1
+Australien Kelpie,Australian Kelpie,31-40,1
+Chinese Powder Puff,Chinese Crested dog,1-10,1
+Wolfspitz,keeshond,31-40,1
+Kleiner Münsterländer,Münsterländer,41-50,1
+Phalène,Phalène,1-10,1
+Azawakh,Azawakh,41-50,1
+Kaninchen-Dachshund,dachshund,21-30,1
+Luzerner Laufhund,Luzerner Laufhund,31-40,1
+Daisy-Dog,Daisy Dog,11-20,1
+Cane Corso,Cane Corso,101-110,1
+Epagneul,brittany,31-40,1
+Poitevin Jagdhund,Poitevin hound,51-60,1
+Pumi,Pumi,21-30,1
+Schipperke,Schipperke,11-20,1
+English Staffordshire Terrier,English Staffordshire Terrier,31-40,1
+Do-Khyi,tibetan mastiff,141-150,1
+Saarloos-Wolfshund,Saarloos wolfhound,81-90,1
+Breton,brittany,31-40,1
+Deerhound,Scottish Deerhound,101-110,1
+Westgotenspitz,Swedish Vallhund,21-30,1
+Laufhund,swedish laufhund,31-40,1
+Schwedischer Vallhund,Swedish Vallhund,21-30,1
+Cirneco dell'Etna,Cirneco dell'etna,21-30,1
+Irish Water Spaniel,Irish Water Spaniel,51-60,1
+Foo Dog gross,Foo Dog big,not real,1
+Bulgarischer Sennenhund,Bulgarian scenthound,51-60,1
+Niederlaufhund,Niederlaufhund,21-30,1
+Spanischer Windhund,Spanish greyhound,51-60,1
+Affenpinscher,Affenpinscher,1-10,1
+Slovensky Cuvac,slovak Cuvac,91-100,1
+Fila Brasileiro,Fila Brasileiro,141-150,1
+Altdeutscher Hütehund,Old German herding dog,81-90,1
+Wäller,waller,51-60,1
